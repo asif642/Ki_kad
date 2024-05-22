@@ -1,0 +1,303 @@
+Info: Processing symbol 'BOOT0:Button_Switch_THT:SW_E-Switch_EG1271_SPDT'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'NRST1:Button_Switch_THT:SW_E-Switch_EG1271_SPDT'.
+Info: Processing symbol 'J4:Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'FB1:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'U1:Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering'.
+Connected BOOT0 pin 1 to GND.
+Connected BOOT0 pin 2 to Net-(BOOT0-B).
+Connected BOOT0 pin 3 to +3.3V.
+Added C1 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C1.
+Changed C1 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 10n.
+Updated C1 symbol association from  to /7f55f62a-d1fb-43ed-9d0e-9b2865492299.
+Updated C1 properties.
+Connected C1 pin 1 to +3.3V.
+Connected C1 pin 2 to GND.
+Added C2 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 10n.
+Updated C2 symbol association from  to /45f81abb-43e8-4f06-ab28-2801315c37d0.
+Updated C2 properties.
+Connected C2 pin 1 to +3.3V.
+Connected C2 pin 2 to GND.
+Added C3 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 10n.
+Updated C3 symbol association from  to /236c59a7-6330-44c2-ad63-f1d30093194b.
+Updated C3 properties.
+Connected C3 pin 1 to +3.3V.
+Connected C3 pin 2 to GND.
+Added C4 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C4.
+Changed C4 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 10n.
+Updated C4 symbol association from  to /83615885-ce23-46b9-917d-c0ae1e2d5c64.
+Updated C4 properties.
+Connected C4 pin 1 to +3.3V.
+Connected C4 pin 2 to GND.
+Added C5 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 10u.
+Updated C5 symbol association from  to /6ac47fdf-862d-4a92-be7f-6abea8afb848.
+Updated C5 properties.
+Connected C5 pin 1 to +3.3V.
+Connected C5 pin 2 to GND.
+Added C6 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C6.
+Changed C6 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 10u.
+Updated C6 symbol association from  to /70da1c59-3b1d-4f00-8a0c-b6e8d0eeff51.
+Updated C6 properties.
+Connected C6 pin 1 to +3.3VA.
+Connected C6 pin 2 to GND.
+Added C7 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C7.
+Changed C7 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 1u.
+Updated C7 symbol association from  to /9679385a-474d-4632-bc08-4735c97b6847.
+Updated C7 properties.
+Connected C7 pin 1 to +3.3VA.
+Connected C7 pin 2 to GND.
+Added C8 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C8.
+Changed C8 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 1u.
+Updated C8 symbol association from  to /03fec21c-efdb-40cc-b793-8d649fe3346e.
+Updated C8 properties.
+Connected C8 pin 1 to +3.3V.
+Connected C8 pin 2 to GND.
+Added C9 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C9.
+Changed C9 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 10P.
+Updated C9 symbol association from  to /31e9656a-2d22-4173-8e08-b4405e4eeb8e.
+Updated C9 properties.
+Connected C9 pin 1 to Net-(U1-PH0).
+Connected C9 pin 2 to GND.
+Added C10 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C10.
+Changed C10 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 10P.
+Updated C10 symbol association from  to /9f419d81-e515-475b-8735-a4f954c477c7.
+Updated C10 properties.
+Connected C10 pin 1 to Net-(U1-PH1).
+Connected C10 pin 2 to GND.
+Added C11 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C11.
+Changed C11 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 10u.
+Updated C11 symbol association from  to /7a3df97d-48c6-444d-8e2f-335df69c80a1.
+Updated C11 properties.
+Connected C11 pin 1 to VBUS.
+Connected C11 pin 2 to GND.
+Added C12 (footprint 'Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder').
+Changed REF** reference designator to C12.
+Changed C12 value from C_0402_1005Metric_Pad0.74x0.62mm_HandSolder to 10u.
+Updated C12 symbol association from  to /37ccfa1e-a694-4d64-b25a-25593b12a5a4.
+Updated C12 properties.
+Connected C12 pin 1 to +3.3V.
+Connected C12 pin 2 to GND.
+Added FB1 (footprint 'Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder').
+Changed REF** reference designator to FB1.
+Changed FB1 value from R_0402_1005Metric_Pad0.72x0.64mm_HandSolder to 120R.
+Updated FB1 symbol association from  to /851df4a8-c28d-48a8-918f-e23435cf3117.
+Updated FB1 properties.
+Connected FB1 pin 1 to +3.3VA.
+Connected FB1 pin 2 to +3.3V.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x18_P2.54mm_Vertical to UP.
+Updated J1 symbol association from  to /33ada335-473d-41ef-af9d-395a9bb40e77.
+Updated J1 properties.
+Connected J1 pin 1 to /PB9.
+Connected J1 pin 2 to /PB8.
+Connected J1 pin 3 to /PB7.
+Connected J1 pin 4 to /PB6.
+Connected J1 pin 5 to /PB5.
+Connected J1 pin 6 to /PB4.
+Connected J1 pin 7 to /PB3.
+Connected J1 pin 8 to /PA15.
+Connected J1 pin 9 to /PA10.
+Connected J1 pin 10 to /PA9.
+Connected J1 pin 11 to /PA8.
+Connected J1 pin 12 to /PB15.
+Connected J1 pin 13 to /PB14.
+Connected J1 pin 14 to /PB13.
+Connected J1 pin 15 to /PB12.
+Connected J1 pin 16 to +3.3V.
+Connected J1 pin 17 to GND.
+Connected J1 pin 18 to GND.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x18_P2.54mm_Vertical to DN.
+Updated J2 symbol association from  to /09c3fdb5-67f0-49bb-8c48-fe50ac02bd1d.
+Updated J2 properties.
+Connected J2 pin 1 to /NRST.
+Connected J2 pin 2 to GND.
+Connected J2 pin 3 to VBUS.
+Connected J2 pin 4 to /PB10.
+Connected J2 pin 5 to /PB2.
+Connected J2 pin 6 to /PB1.
+Connected J2 pin 7 to /PB0.
+Connected J2 pin 8 to /PA7.
+Connected J2 pin 9 to /PA6.
+Connected J2 pin 10 to /PA5.
+Connected J2 pin 11 to /PA4.
+Connected J2 pin 12 to /PA3.
+Connected J2 pin 13 to /PA2.
+Connected J2 pin 14 to /PA1.
+Connected J2 pin 15 to /PA0.
+Connected J2 pin 16 to /PC15.
+Connected J2 pin 17 to /PC14.
+Connected J2 pin 18 to /PC13.
+Added J3 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J3.
+Changed J3 value from PinHeader_1x04_P2.54mm_Vertical to Conn_01x04_Pin.
+Updated J3 symbol association from  to /80452772-c33f-4444-9e29-5fb5bc0be007.
+Updated J3 properties.
+Connected J3 pin 1 to +3.3V.
+Connected J3 pin 2 to /SWDCLK.
+Connected J3 pin 3 to /SWDIO.
+Connected J3 pin 4 to GND.
+Added J4 (footprint 'Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal').
+Changed REF** reference designator to J4.
+Changed J4 value from USB_Micro-B_Amphenol_10103594-0001LF_Horizontal to USB_B_Micro.
+Updated J4 symbol association from  to /810c702a-fb9c-4f4e-a81b-776501dc0479.
+Updated J4 properties.
+Connected J4 pin 1 to VBUS.
+Connected J4 pin 2 to /USB_D-.
+Connected J4 pin 3 to /USB_D+.
+Connected J4 pin 4 to unconnected-(J4-ID-Pad4).
+Connected J4 pin 5 to GND.
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Added NRST1 (footprint 'Button_Switch_THT:SW_E-Switch_EG1271_SPDT').
+Changed REF** reference designator to NRST1.
+Changed NRST1 value from SW_E-Switch_EG1271_SPDT to SW.
+Updated NRST1 symbol association from  to /9a199f3d-f903-4005-9999-e84cb769e317.
+Updated NRST1 properties.
+Connected NRST1 pin 1 to +3.3V.
+Connected NRST1 pin 2 to Net-(NRST1-B).
+Connected NRST1 pin 3 to GND.
+Added BOOT0 (footprint 'Button_Switch_THT:SW_E-Switch_EG1271_SPDT').
+Added R2 (footprint 'Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0402_1005Metric_Pad0.72x0.64mm_HandSolder to 10K.
+Updated R2 symbol association from  to /339472ba-4c64-45b0-9171-37cb690cf797.
+Updated R2 properties.
+Connected R2 pin 1 to Net-(BOOT0-B).
+Connected R2 pin 2 to /BOOT0.
+Changed REF** reference designator to BOOT0.
+Added R3 (footprint 'Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0402_1005Metric_Pad0.72x0.64mm_HandSolder to 10K.
+Updated R3 symbol association from  to /e6cba808-f382-4d48-a18a-9e7f15fae984.
+Updated R3 properties.
+Connected R3 pin 1 to Net-(NRST1-B).
+Connected R3 pin 2 to /NRST.
+Changed BOOT0 value from SW_E-Switch_EG1271_SPDT to SW.
+Added U1 (footprint 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm').
+Changed REF** reference designator to U1.
+Changed U1 value from QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm to STM32F411CCUx.
+Updated U1 symbol association from  to /b970541e-3f20-44b1-b187-b0d4bf90e36e.
+Updated U1 properties.
+Connected U1 pin 1 to +3.3V.
+Connected U1 pin 2 to /PC13.
+Connected U1 pin 3 to /PC14.
+Connected U1 pin 4 to /PC15.
+Connected U1 pin 5 to Net-(U1-PH0).
+Connected U1 pin 6 to Net-(U1-PH1).
+Connected U1 pin 7 to /NRST.
+Connected U1 pin 8 to GND.
+Connected U1 pin 9 to +3.3VA.
+Connected U1 pin 10 to /PA0.
+Connected U1 pin 11 to /PA1.
+Connected U1 pin 12 to /PA2.
+Connected U1 pin 13 to /PA3.
+Connected U1 pin 14 to /PA4.
+Connected U1 pin 15 to /PA5.
+Connected U1 pin 16 to /PA6.
+Connected U1 pin 17 to /PA7.
+Connected U1 pin 18 to /PB0.
+Connected U1 pin 19 to /PB1.
+Connected U1 pin 20 to /PB2.
+Connected U1 pin 21 to /PB10.
+Connected U1 pin 22 to unconnected-(U1-VCAP1-Pad22).
+Connected U1 pin 23 to GND.
+Connected U1 pin 24 to +3.3V.
+Connected U1 pin 25 to /PB12.
+Connected U1 pin 26 to /PB13.
+Connected U1 pin 27 to /PB14.
+Connected U1 pin 28 to /PB15.
+Connected U1 pin 29 to /PA8.
+Connected U1 pin 30 to /PA9.
+Connected U1 pin 31 to /PA10.
+Connected U1 pin 32 to /USB_D-.
+Connected U1 pin 33 to /USB_D+.
+Connected U1 pin 34 to /SWDIO.
+Connected U1 pin 35 to GND.
+Connected U1 pin 36 to +3.3V.
+Connected U1 pin 37 to /SWDCLK.
+Connected U1 pin 38 to /PA15.
+Connected U1 pin 39 to /PB3.
+Connected U1 pin 40 to /PB4.
+Connected U1 pin 41 to /PB5.
+Connected U1 pin 42 to /PB6.
+Connected U1 pin 43 to /PB7.
+Connected U1 pin 44 to /BOOT0.
+Connected U1 pin 45 to /PB8.
+Connected U1 pin 46 to /PB9.
+Connected U1 pin 47 to GND.
+Connected U1 pin 48 to +3.3V.
+Connected U1 pin 49 to GND.
+Updated BOOT0 symbol association from  to /87b4964f-cdb0-45e8-8b73-ed2f91524855.
+Added U2 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Changed REF** reference designator to U2.
+Changed U2 value from SOT-223-3_TabPin2 to AMS1117-3.3.
+Updated U2 symbol association from  to /71ad7618-96f5-4910-9730-b4f9a1362db8.
+Updated U2 properties.
+Connected U2 pin 1 to GND.
+Connected U2 pin 2 to +3.3V.
+Connected U2 pin 2 to +3.3V.
+Connected U2 pin 3 to VBUS.
+Updated BOOT0 properties.
+Added Y1 (footprint 'Crystal:Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering').
+Changed REF** reference designator to Y1.
+Changed Y1 value from Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering to Crystal.
+Updated Y1 symbol association from  to /2c3e2d45-b7aa-427b-a769-9adb8fc6074a.
+Updated Y1 properties.
+Connected Y1 pin 1 to Net-(U1-PH1).
+Connected Y1 pin 2 to GND.
+Connected Y1 pin 3 to Net-(U1-PH0).
+Connected Y1 pin 4 to GND.
+Warning: No net found for symbol BOOT0 pin 6.
+Warning: No net found for symbol BOOT0 pin 5.
+Warning: No net found for symbol NRST1 pin 4.
+Warning: No net found for symbol NRST1 pin 5.
+Warning: No net found for symbol NRST1 pin 6.
+Warning: No net found for symbol BOOT0 pin 4.
+
+
+Info: Total warnings: 6, errors: 0.

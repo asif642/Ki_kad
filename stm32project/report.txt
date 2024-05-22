@@ -1,0 +1,53 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D1:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'FB120R1:Inductor_SMD:L_0603_1608Metric'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J4:Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:Nidec_Copal_CAS-120A'.
+Info: Processing symbol 'U1:Package_QFP:LQFP-48_7x7mm_P0.5mm'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering'.
+Added J4 (footprint 'Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal').
+Changed REF** reference designator to J4.
+Changed J4 value from USB_Micro-B_Amphenol_10103594-0001LF_Horizontal to USB_B_Micro.
+Updated J4 symbol association from  to /797e0057-dc07-422b-8b7e-cef51063f4f1.
+Updated J4 properties.
+Connected J4 pin 1 to VBUS.
+Connected J4 pin 2 to /USB_D-.
+Connected J4 pin 3 to /USB_D+.
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 4 to unconnected-(J4-ID-Pad4).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 5 to GND1.
+Add net unconnected-(J4-Shield-Pad6).
+Add net unconnected-(J4-ID-Pad4).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+Connected J4 pin 6 to unconnected-(J4-Shield-Pad6).
+
+
+Info: Total warnings: 0, errors: 0.
